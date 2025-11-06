@@ -13,6 +13,9 @@ Welcome to doc290290's documentation!
    rozdzial1/index
    rozdzial2/index
    rozdzial3/index
+   rozdzial4/index
+   rozdzial5/index
+   rozdzial6/index   
 
 
 Indices and tables
